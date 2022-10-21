@@ -9,6 +9,6 @@
   "author": "utkarsha agrawal",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^8.4.1"
+    "cypress": "^10.8.0"
   }
 }
